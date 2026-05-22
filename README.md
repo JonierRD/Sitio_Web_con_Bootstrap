@@ -7,6 +7,11 @@ Landing page de portfolio personal desarrollada con Bootstrap 5 para el taller p
 - Repositorio: https://github.com/JonierRD/Sitio_Web_con_Bootstrap
 - Sitio publicado: https://jonierrd.github.io/Sitio_Web_con_Bootstrap/
 
+## Integrantes
+
+- Sidney Villada
+- Jonier Rendon
+
 ## Contenido del proyecto
 
 - Navbar responsiva fija en la parte superior
@@ -21,7 +26,3 @@ Landing page de portfolio personal desarrollada con Bootstrap 5 para el taller p
 La informacion base del portfolio fue tomada del sitio:
 
 - https://portfolio-jonierrd117.vercel.app/
-
-## GitHub Pages
-
-El proyecto fue desplegado con GitHub Pages usando la rama `main` y la carpeta `/(root)`.
