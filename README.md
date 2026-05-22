@@ -2,6 +2,11 @@
 
 Landing page de portfolio personal desarrollada con Bootstrap 5 para el taller practico de creacion y despliegue de un sitio web responsivo.
 
+## Enlaces
+
+- Repositorio: https://github.com/JonierRD/Sitio_Web_con_Bootstrap
+- Sitio publicado: https://jonierrd.github.io/Sitio_Web_con_Bootstrap/
+
 ## Contenido del proyecto
 
 - Navbar responsiva fija en la parte superior
@@ -17,12 +22,6 @@ La informacion base del portfolio fue tomada del sitio:
 
 - https://portfolio-jonierrd117.vercel.app/
 
-## Repositorio
-
-- Codigo: https://github.com/JonierRD/Sitio_Web_con_Bootstrap
-
 ## GitHub Pages
 
-Cuando actives Pages desde `Settings > Pages` y selecciones la rama `main`, la URL esperada del sitio sera:
-
-- https://jonierrd.github.io/Sitio_Web_con_Bootstrap/
+El proyecto fue desplegado con GitHub Pages usando la rama `main` y la carpeta `/(root)`.
