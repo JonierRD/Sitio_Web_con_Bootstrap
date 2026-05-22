@@ -9,7 +9,6 @@ Landing page de portfolio personal desarrollada con Bootstrap 5 para el taller p
 
 ## Integrantes
 
-- Sidney Villada
 - Jonier Rendon
 
 ## Contenido del proyecto
